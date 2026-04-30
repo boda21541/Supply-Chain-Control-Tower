@@ -1,6 +1,9 @@
 # Supply Chain Control Tower
 
 ## Overview
+## Dashboard Preview
+
+![Dashboard](images/dashboard_screenshot.png)
 
 Built a simulated Supply Chain Control Tower for a medical device manufacturing environment using SQL and Power BI.
 
