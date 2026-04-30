@@ -1,1 +1,11 @@
-
+Part_ID,Part_Name,Supplier_Name,Country,Stock_Level,Safety_Stock,Daily_Usage,Lead_Time_Days,Order_Status
+101,IV Tubing Set,MedFlow Inc,USA,540,300,25,12,Open
+102,Sterile Connector,BioLink GmbH,Germany,120,200,18,20,Delayed
+103,Fluid Bag Resin,PolyMed Ltd,India,900,500,40,15,Open
+104,Cleanroom Packaging Pack,PackSafe UAE,UAE,80,150,10,25,Delayed
+105,Sensor Valve Unit,PrecisionMed Japan,Japan,300,220,12,Closed
+106,Catheter Component,HealthParts Mexico,Mexico,95,180,20,Delayed
+107,Filter Housing,TechPoly USA,USA,400,250,16,Open
+108,Disposable Seal Kit,SafeSeal UK,UK,110,170,14,Delayed
+109,Medical Clamp Unit,ClampTech India,India,600,320,22,Open
+110,Sterile Wrap Roll,BioWrap China,China,140,260,15,Delayed
