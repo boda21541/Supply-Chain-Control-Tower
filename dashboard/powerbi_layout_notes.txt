@@ -1,0 +1,20 @@
+Power BI Dashboard Layout
+
+PAGE 1: Executive Summary
+- KPI Cards:
+  Total Parts
+  Low Stock Parts
+  Delayed Orders
+  Avg Lead Time
+
+- Charts:
+  Inventory Health Gauge
+  Supplier Country Map
+  Lead Time Trend
+  Low Stock Components Bar Chart
+
+PAGE 2: Planner Dashboard
+- Reorder Recommendations
+- Open Orders Aging
+- Safety Stock Violations
+- Supplier Delay Heatmap
